@@ -1,2 +1,2 @@
-# 21.240.0110
-latihan
+# latihan
+Projek latihan untuk GIT
